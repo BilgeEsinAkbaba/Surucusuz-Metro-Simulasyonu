@@ -41,7 +41,11 @@ A* (A-Star) algoritması, **en hızlı rotayı** bulmak için kullanılır.
 - **Geçiş süresi** hesaplanarak, **en kısa sürede** hedefe ulaşan yol bulunur.  
 
 ---
+## 📌 Örnek Kullanım ve Test Sonuçları 
 
+![image](https://github.com/user-attachments/assets/2ef12ef2-dd27-4ff3-8507-0b5076781e9c)
+
+---
 ## 🔧 Projeyi Geliştirme Fikirleri
 
 - Daha büyük bir **metro ağı** eklemek  
