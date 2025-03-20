@@ -43,7 +43,7 @@ A* (A-Star) algoritması, **en hızlı rotayı** bulmak için kullanılır.
 ---
 ## 📌 Örnek Kullanım ve Test Sonuçları 
 
-![image](https://github.com/user-attachments/assets/2ef12ef2-dd27-4ff3-8507-0b5076781e9c)
+![image](https://github.com/user-attachments/assets/c40e1cca-1021-4821-ae52-adc289550393)
 
 ---
 ## 🔧 Projeyi Geliştirme Fikirleri
